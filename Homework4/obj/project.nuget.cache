@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEC4W1zsILsqJ+7cOW9CQ/CaAJayarZzC5KAUA9z9n6b4DIKgeNbjX8vv9IVideTuI/bg/0NO2aOgjWzb5pdgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Varfolomey\\Documents\\GitHub\\Modul2HW4\\Homework4\\Homework4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varfolomey\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Varfolomey\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Varfolomey\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
